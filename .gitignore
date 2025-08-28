@@ -2,3 +2,4 @@ mscoco/
 runs/*
 !runs/.gitkeep
 checkpoints/*
+!checkpoints/.gitkeep
