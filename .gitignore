@@ -1,5 +1,5 @@
 mscoco/
 runs/*
 !runs/.gitkeep
-checkpoints/*
-!checkpoints/.gitkeep
+models/checkpoints/*
+!models/checkpoints/.gitkeep
