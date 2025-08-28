@@ -1,3 +1,5 @@
 mscoco/
-runs/
-checkpoints/
+runs/*
+!runs/.gitkeep
+checkpoints/*
+!checkpoints/.gitkeep
